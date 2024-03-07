@@ -4,7 +4,7 @@
           "languages": [
                {
                     "name": "go",
-                    "link": "https://raw.githubusercontent.com/aquemaati/gogol/main/go/basic/go_basic.json",
+                    "link": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/go/basic/go_basic.json",
                     "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/go/go_setup.yaml"
                },
                {
