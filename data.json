@@ -4,8 +4,8 @@
           "languages": [
                {
                     "name": "go",
-                    "link": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/go/basic/go_basic.json",
-                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/go/go_setup.yaml"
+                    "link": "https://raw.githubusercontent.com/aquemaati/gogol/main/go/basic/go_basic.json",
+                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/go/go_setup.yaml"
                },
                {
                     "name": "python",
@@ -15,22 +15,22 @@
                {
                     "name": "zig",
                     "link": "http",
-                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/zig/zig_setup.yaml"
+                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/zig/zig_setup.yaml"
                },
                {
                     "name": "c++",
-                    "link": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/cpp/basic/cpp_basic.json",
+                    "link": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/cpp/basic/cpp_basic.json",
                     "linksetup": ""
                },
                {
                     "name": "c",
-                    "link": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/c/basic/c_basic.json",
+                    "link": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/c/basic/c_basic.json",
                     "linksetup": ""
                },
                {
                     "name": "haskell",
                     "link": "",
-                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol/main/api/haskell/haskell_setup.yaml"
+                    "linksetup": "https://raw.githubusercontent.com/aquemaati/gogol-api/main/haskell/haskell_setup.yaml"
                }
           ]
      }
