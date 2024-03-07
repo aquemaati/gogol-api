@@ -11,7 +11,7 @@ instructions:
       - link: https://www.haskell.org/ghcup/#
     arm64:
       - command: brew install haskell-stack
-      - command: echo testofcommand
+      - command: 
       - link: https://www.haskell.org/ghcup/#
 
   linux:
@@ -29,3 +29,8 @@ instructions:
     x86:
       - command: choco install haskell-stack
       - link: https://www.haskell.org/ghcup/#
+
+tools: |
+  for vscode user you can use .... and add thi library
+message: |
+  some advices
