@@ -1,0 +1,30 @@
+---
+check_command:
+  darwin: command -v gcc
+  linux: command -v gcc
+  windows: where gcc
+
+instructions:
+  darwin:
+    amd64:
+      - command:
+      - link: 
+    arm64:
+      - command: 
+      - link: 
+
+  linux:
+    amd64:
+      - command:
+      - link:
+    arm64:
+      - command:
+      - link:
+
+  windows:
+    amd64:
+      - command:
+      - link:
+    x86:
+      - command:
+      - link:
